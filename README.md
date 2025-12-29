@@ -5,15 +5,15 @@
 
 
 
-- 🌱 I’m currently learning **GRC , Python , With AWS**
+- 🌱 I’m currently learning **Full Stack Development*
 
-- 👯 I’m looking to collaborate on **CryptoGraphy**
+- 👯 I’m looking to collaborate on **Dating app That I'm building**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Node JS**
 
-- 💬 Ask me about **Cloud Security and DevOps**
+- 💬 Ask me about **System Design**
 
-- 📫 How to reach me **nimaiofficial123@gmail.cpm**
+- 📫 How to reach me **soibee@proton.me**
 
 - ⚡ Fun fact **I love to travel but I don't get a chance idk why I'm so busy brah**
 
