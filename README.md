@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nimai Mandal</h1>
-<h3 align="center"> I'm passionate about learning about new tech such as Information security , DevOps, Cloud and Blockchain.</h3>
+<h3 align="center"> I'm learning Backend , DSA and will learn about Blockchain Development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimaiwb&label=Profile%20views&color=0e75b6&style=flat" alt="soibee" /> </p>
 
