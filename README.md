@@ -91,8 +91,7 @@
 
 <!-- Auth -->
 <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jsonwebtoken/jsonwebtoken-icon.svg" alt="jwt" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/white" alt="jwt" width="40" height="40"/>
 </a>
-
 </p>
 
