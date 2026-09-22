@@ -10,8 +10,8 @@
 - Responsive Web Design  
 
 ### 🛠️ Backend
-- Node.js  
-- Express.js  
+- Spring Boot
+- JWT 
 - RESTful APIs  
 - GraphQL  
 - JWT Authentication  
@@ -21,7 +21,6 @@
 ### 🗄️ Databases
 - MongoDB  
 - MySQL  
-- Mongoose  
 - Database Design & Indexing  
 
 ### ⚙️ DevOps & Cloud
@@ -29,7 +28,7 @@
 - AWS (EC2, S3, IAM)  
 - CI/CD (GitHub Actions / Jenkins)  
 - Kubernetes  
-- Nginx  
+
 
 ### 🔐 Security & Performance
 - OAuth  
@@ -55,9 +54,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-</a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -68,9 +64,6 @@
 </a>
 
 <!-- Backend -->
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
