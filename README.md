@@ -17,13 +17,6 @@
          height="40"/>
   </a>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-         alt="Amazon Web Services (AWS)"
-         width="60"
-         height="40"/>
-  </a>
 
   <!-- Apache Kafka -->
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
