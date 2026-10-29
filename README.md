@@ -1,4 +1,4 @@
-```html
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://react.dev/" target="_blank">
